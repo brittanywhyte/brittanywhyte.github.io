@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Gruppo|Prompt|Questrial|Rock+Salt');
+body{/*background-color: black;*/ color: white;  font-family: 'Questrial', sans-serif; font-size: 18px; width:90%; margin: auto;
+    min-width: 400px; background-color: #AFB9C1;
+}
+h1 {color: black;}
+.header {text-align: center;padding: 10px; 
+}
+.header img {width: 300px; margin: auto;}
+.logocontainer {border: 1px solid #000000; width: 100%; background-color: white; display:flex;}
+.headertext {text-align:center; width:30%; margin:auto;font-size:50px;}
+.logo img {width:300px; margin: auto;}
+.logo {width:300px; margin: auto;}
+.address {margin-top: 2%;}
+.address a {text-align: center; color:white;width:10%;font-family:'Prompt', sans-serif; font-size: 10px;}
+.address a:hover {color:#081ED9; text-decoration:none;}
+.hours {width:30%; margin: auto; /*border:1px dashed #1711D4;*/font-family:'Prompt', sans-serif; font-size: 10px;}
+.nav ul { text-align: center;border: 1px solid white;}
+.nav li{display: inline-block; margin:2%;}
+.nav a {color: #0B010B;font-family: 'Prompt', sans-serif;}
+.nav a:hover {color: #ED0DED;}
+.basicinfo {border: 2px solid #000000; width:20%; margin: auto; margin-top: 5%; text-align: center; font-size:24px;min-width:300px;}
+.services {display:flex; text-align: center;}
+.miniservices {border: 2px solid ##ffffff;margin: 10%; width: 20%; margin:auto; margin-top: 5%;background-color: #000000;padding:2%;}
+.miniservices img {width:100%;}
+.miniservices a {color:#1711D4;}
+.miniservices a:hover {color:#ED0DED;}
+.menuspecials a {color: #1711D4;}
+.menuspecials a:hover {color:#ED0DED;}
+.gallery {/*display: flex;*/width: 80%; margin: auto;}
+.gallery img {border: 2px solid #ffffff ; width:200px; height:200px; margin:auto; margin:10px;}
+.gallerymini {display: inline-block;}
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.eventsflyer img {width:100%;margin:auto;}
+.contactcontainer {text-align: center}
+.menu {width: 30%; margin: auto; border:1px solid #ffffff; font-size: 24px; }
+.footer {text-align:center; margin-top:20%;}
+.footer img {width:26px; height:26px}
+.footer a {color:#000000;}
